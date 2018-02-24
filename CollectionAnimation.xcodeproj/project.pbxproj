@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		2EB54A352040F81C003D0E4D /* CollectionBtnView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2EB54A342040F81C003D0E4D /* CollectionBtnView.m */; };
+		2EB54A372040F9BD003D0E4D /* animationinStance.gif in Resources */ = {isa = PBXBuildFile; fileRef = 2EB54A362040F9BD003D0E4D /* animationinStance.gif */; };
 		2EE042A4202B069B00372832 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2EE042A3202B069B00372832 /* AppDelegate.m */; };
 		2EE042A7202B069B00372832 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2EE042A6202B069B00372832 /* ViewController.m */; };
 		2EE042AA202B069B00372832 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2EE042A8202B069B00372832 /* Main.storyboard */; };
@@ -38,6 +39,7 @@
 /* Begin PBXFileReference section */
 		2EB54A332040F81C003D0E4D /* CollectionBtnView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CollectionBtnView.h; sourceTree = "<group>"; };
 		2EB54A342040F81C003D0E4D /* CollectionBtnView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CollectionBtnView.m; sourceTree = "<group>"; };
+		2EB54A362040F9BD003D0E4D /* animationinStance.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = animationinStance.gif; sourceTree = "<group>"; };
 		2EE0429F202B069B00372832 /* CollectionAnimation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CollectionAnimation.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2EE042A2202B069B00372832 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		2EE042A3202B069B00372832 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -104,6 +106,7 @@
 		2EE042A1202B069B00372832 /* CollectionAnimation */ = {
 			isa = PBXGroup;
 			children = (
+				2EB54A362040F9BD003D0E4D /* animationinStance.gif */,
 				2EE042A2202B069B00372832 /* AppDelegate.h */,
 				2EE042A3202B069B00372832 /* AppDelegate.m */,
 				2EE042A5202B069B00372832 /* ViewController.h */,
@@ -245,6 +248,7 @@
 			files = (
 				2EE042AF202B069B00372832 /* LaunchScreen.storyboard in Resources */,
 				2EE042AC202B069B00372832 /* Assets.xcassets in Resources */,
+				2EB54A372040F9BD003D0E4D /* animationinStance.gif in Resources */,
 				2EE042AA202B069B00372832 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
