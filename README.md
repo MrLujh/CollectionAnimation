@@ -3,8 +3,8 @@
 
 #### 主要代码
 
-*1 引用头文件 #import "CollectionBtnView.h"
-*2 UIImage *maskImage = [UIImage imageNamed:@"btn_link_fill"];
+1. 引用头文件 #import "CollectionBtnView.h"
+2. UIImage *maskImage = [UIImage imageNamed:@"btn_link_fill"];
    UIImage *lineImage = [UIImage imageNamed:@"btn_link_line"];
 *3 CollectionBtnView *starView = [[CollectionBtnView alloc] init];
    starView.frame = CGRectMake(0, 0, maskImage.size.width, maskImage.size.height);
