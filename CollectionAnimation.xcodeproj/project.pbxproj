@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2EB54A352040F81C003D0E4D /* CollectionBtnView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2EB54A342040F81C003D0E4D /* CollectionBtnView.m */; };
 		2EE042A4202B069B00372832 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2EE042A3202B069B00372832 /* AppDelegate.m */; };
 		2EE042A7202B069B00372832 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2EE042A6202B069B00372832 /* ViewController.m */; };
 		2EE042AA202B069B00372832 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2EE042A8202B069B00372832 /* Main.storyboard */; };
@@ -35,6 +36,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2EB54A332040F81C003D0E4D /* CollectionBtnView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CollectionBtnView.h; sourceTree = "<group>"; };
+		2EB54A342040F81C003D0E4D /* CollectionBtnView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CollectionBtnView.m; sourceTree = "<group>"; };
 		2EE0429F202B069B00372832 /* CollectionAnimation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CollectionAnimation.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2EE042A2202B069B00372832 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		2EE042A3202B069B00372832 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -105,6 +108,8 @@
 				2EE042A3202B069B00372832 /* AppDelegate.m */,
 				2EE042A5202B069B00372832 /* ViewController.h */,
 				2EE042A6202B069B00372832 /* ViewController.m */,
+				2EB54A332040F81C003D0E4D /* CollectionBtnView.h */,
+				2EB54A342040F81C003D0E4D /* CollectionBtnView.m */,
 				2EE042A8202B069B00372832 /* Main.storyboard */,
 				2EE042AB202B069B00372832 /* Assets.xcassets */,
 				2EE042AD202B069B00372832 /* LaunchScreen.storyboard */,
@@ -266,6 +271,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2EE042A7202B069B00372832 /* ViewController.m in Sources */,
+				2EB54A352040F81C003D0E4D /* CollectionBtnView.m in Sources */,
 				2EE042B2202B069B00372832 /* main.m in Sources */,
 				2EE042A4202B069B00372832 /* AppDelegate.m in Sources */,
 			);
@@ -431,6 +437,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 9M422A22FH;
 				INFOPLIST_FILE = CollectionAnimation/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.lujh.cn.CollectionAnimation;
@@ -444,6 +451,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 9M422A22FH;
 				INFOPLIST_FILE = CollectionAnimation/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.lujh.cn.CollectionAnimation;
